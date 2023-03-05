@@ -12,5 +12,5 @@ An algorithm to add two numbers:
 # Graphs
 ```
 A graph is a unique data structure in programming that consists of finite sets of nodes or vertices and a set of edges that connect these vertices to them. At this moment, adjacent vertices can be called those vertices that are connected to the same edge with each other.
-![](https://user-images.githubusercontent.com/119610761/222942816-be22f3bd-5f35-4533-8bd5-1305349a129d.jpg).
+![](https://user-images.githubusercontent.com/119610761/222942816-be22f3bd-5f35-4533-8bd5-1305349a129d.jpg)
 ```
